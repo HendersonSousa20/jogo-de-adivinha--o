@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 jogo de adivinhação para treinar conhecimento em DOM
 
-- [Acesse o projeto finalizado, online](https://hendersonsousa20.github.io/Galeria_abstrata/)
+- [Acesse o projeto finalizado, online](https://hendersonsousa20.github.io/jogo-de-adivinha--o/)
 
 
 
